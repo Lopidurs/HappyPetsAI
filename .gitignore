@@ -132,6 +132,7 @@ dmypy.json
 
 # ignoring the dataset
 PetImages/
+kagglecatsanddogs_5340.zip
 
 # ignoring the keras files
 *.keras
